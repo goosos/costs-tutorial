@@ -4,7 +4,7 @@
 
 > **✅ Tested:** vectorbt 1.1.1 · Python 3.12 · Last verified: 2026-10-08 · [Update policy](https://goosos.com/about#freshness)
 
-> **📊 Market snapshot** (as of 2026-10-08): SPY $777.22 · QQQ $757.73 · BTC $83,083 · ETH $2,579 — for context on when this was written.
+> **📊 Market snapshot** (as of 2026-10-08): SPY $777.22 · QQQ $757.73 · BTC $83,135 · ETH $2,579 — for context on when this was written.
 
 **Target keyword:** backtest slippage commissions
 **Meta description:** Your backtest's Sharpe is lying about costs. Learn to model commissions and slippage honestly — fixed vs proportional, bid-ask spread, volatility-based slippage — with runnable code and real numbers.
